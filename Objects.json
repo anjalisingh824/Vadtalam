@@ -1,0 +1,37 @@
+{
+	
+      "BASEURL":"http://137.116.157.198:99",
+	  "LOGINPAGETITLE":"Login",
+	  "HOMEPAGETITLE":"Home",
+	  "ADDUSERTITLE":"User List",
+	  "USERNAME":"vadtal",
+	  "PASSWORD":"vadtal123",
+	  "FIRSTNAMERROR":"First name is mandatory.",
+	  "LASTNAMERROR":"Last name is mandatory.",
+	  "MOBILENUMBERERROR":"Mobile number is mandatory.",
+	  "COUNTRYERROR":"Country is mandatory.",
+	  "STATERROR":"State is mandatory.",
+	  "CITYERROR":"City is mandatory.",
+	  "ROLERROR":"Role is mandatory.",
+	  "TEMPLERROR":"Temple name is mandatory.",
+	  "FNLENGTHE":"First name between 2 to 60 characters.",
+	  "LNLENGTHE":"Last name between 2 to 60 characters.",
+	  "MOLENGTHE":"Mobile number between 10 to 14 characters.",
+	  "LANDLINELENGTHE":"Landline number between 7 to 12 characters.",
+	  "ADRLENGTHE":"Address between 2 to 250 characters.",
+	  "CITYLENGTHE":"City between 2 to 50 characters.",
+	  "EMAILENGTHE":"Email address between 5 to 50 characters.",
+	  "ELECTIONLENGTHE":"Election card between 2 to 25 characters.",
+	  "AADHARLENGTHE":"Aadhar card between 2 to 25 characters.",
+	  "DRIVINGLENGTHE":"Driving licence between 2 to 25 characters.",
+	  "PANCLENGTHE":"PAN card between 2 to 25 characters."
+
+	
+	  
+	
+  
+  }
+
+ 
+  
+
