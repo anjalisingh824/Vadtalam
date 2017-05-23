@@ -1,11 +1,11 @@
 {
 	
-      "BASEURL":"http://137.116.157.198:99",
+      "BASEURL":"http://52.163.126.242:99/",
 	  "LOGINPAGETITLE":"Login",
 	  "HOMEPAGETITLE":"Home",
 	  "ADDUSERTITLE":"User List",
-	  "USERNAME":"vadtal",
-	  "PASSWORD":"vadtal123",
+	  "USERNAME":"smartsense.4",
+	  "PASSWORD":"smartsense",
 	  "FIRSTNAMERROR":"First name is mandatory.",
 	  "LASTNAMERROR":"Last name is mandatory.",
 	  "MOBILENUMBERERROR":"Mobile number is mandatory.",
@@ -20,18 +20,21 @@
 	  "LANDLINELENGTHE":"Landline number between 7 to 12 characters.",
 	  "ADRLENGTHE":"Address between 2 to 250 characters.",
 	  "CITYLENGTHE":"City between 2 to 50 characters.",
+	  "PINCODELENGTHE":"Pincode between 6 to 10 characters.",
 	  "EMAILENGTHE":"Email address between 5 to 50 characters.",
 	  "ELECTIONLENGTHE":"Election card between 2 to 25 characters.",
 	  "AADHARLENGTHE":"Aadhar card between 2 to 25 characters.",
 	  "DRIVINGLENGTHE":"Driving licence between 2 to 25 characters.",
-	  "PANCLENGTHE":"PAN card between 2 to 25 characters."
-
-	
-	  
-	
-  
-  }
-
+	  "PANCLENGTHE":"PAN card between 2 to 25 characters.",
+	  "VALIDFNERROR":"Enter valid first name.",
+	  "VALIDLNERROR":"Enter valid last name.",
+	  "VALIDMNERROR":"Enter valid mobile number.",
+	  "VALIDLLNERROR":"Enter valid landline number.",
+	  "VALIDCITYERROR":"Enter valid city.",
+	  "VALIDPINCODEERROR":"Enter valid pincode.",
+	  "VALIDEMAILAERROR":"Enter valid email address.",
+	  "VALIDIDPROOFERROR":"Enter valid id proof."
+}
  
   
 
